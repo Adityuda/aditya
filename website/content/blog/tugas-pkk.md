@@ -1,7 +1,7 @@
 +++
 author = "YUDHA ADITYA"
 bg_image = ""
-date = 2021-10-21T17:00:00Z
+date = 2021-10-22T01:04:00Z
 description = ""
 tags = ["tugas"]
 title = "TUGAS PKK"
